@@ -52,11 +52,11 @@ export function WidgetForm() {
         />
       )}
 
-      <footer className="tex-xs text-neutral-400">
+      <footer className="text-sm text-neutral-400 font-medium ">
         Feito com ♥ por{" "}
         <a
           href="https://github.com/wellhenrique"
-          className="underline underline-offset-2"
+          className="underline underline-offset-2 hover:text-zinc-300 transition-colors"
         >
           Henrique
         </a>
