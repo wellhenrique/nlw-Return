@@ -12,7 +12,7 @@ model Feedback {
 
   type    String
   comment String
-  image   String?
+  screenshot   String?
 
   @@map("feedbacks")
 }
