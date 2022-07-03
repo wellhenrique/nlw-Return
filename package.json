@@ -13,8 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wellhenrique/nlw-08-impulse/issues"
-  },
-  "homepage": "https://github.com/wellhenrique/nlw-08-impulse#readme"
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
 }
